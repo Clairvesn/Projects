@@ -1,0 +1,45 @@
+# HIPAA Security & Compliance Analysis (Healthcare Case Study)
+
+## Overview
+This project analyzes **security, privacy, and compliance challenges under HIPAA** from a cybersecurity governance and risk perspective. The analysis examines how technical, legal, and business factors contribute to HIPAA compliance gaps and how insufficient auditing and enforcement can lead to large-scale healthcare data breaches.
+
+A real-world case study of the **Anthem data breach** is used to demonstrate how weaknesses in access controls, monitoring, and risk management can result in regulatory violations and loss of patient trust.
+
+## Focus Areas
+- HIPAA Privacy Rule vs. Security Rule
+- Administrative, technical, and physical safeguards
+- Compliance auditing and risk analysis
+- Identity and access management challenges
+- Vendor and third-party risk
+- Cross-border data transfer considerations
+- Regulatory enforcement limitations
+- Business and reputational impact of data breaches
+
+## Key Findings
+- HIPAA compliance failures often stem from **lack of continuous auditing**, not absence of policies
+- Weak access controls and insufficient monitoring are common breach contributors
+- Inconsistent regulatory enforcement reduces compliance maturity
+- Third-party vendors and cloud services introduce shared-responsibility risks
+- Human error remains a leading cause of healthcare data breaches
+
+## Case Study Highlight
+- **Anthem Breach (2015)**  
+  - Nearly 79 million records exposed  
+  - Credential misuse and lack of monitoring enabled unauthorized access  
+  - Demonstrates the consequences of inadequate risk analysis and audit practices  
+
+## Recommendations
+- Implement continuous risk analysis and compliance auditing
+- Strengthen access controls using least privilege and MFA
+- Improve vendor risk management and oversight
+- Enhance security awareness and phishing training
+- Align HIPAA compliance efforts with business strategy and governance
+
+## Frameworks & References
+- HIPAA Privacy Rule
+- HIPAA Security Rule
+- NIST SP 800-53 (reference)
+- OCR guidance on HIPAA enforcement
+- Healthcare breach case studies
+
+ Please take a look at the HIPAA Security Analysis pdf for the full report, references, and detailed analysis.
