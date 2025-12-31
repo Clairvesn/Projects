@@ -33,5 +33,5 @@ This project documents an IT security and compliance audit conducted for a mock 
 - CIS Critical Security Controls
 - draw.io (network diagramming)
 
-> 📎 See **PCI-DSS_IT_Audit_Report.pdf** for full findings and analysis.
+> 📎 See the pdf for full findings and analysis.
 
